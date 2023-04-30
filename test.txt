@@ -3,4 +3,5 @@ It`s new line. 123
 Hello my dear!:)
 Add new line.
 123
+Next new line.
 
